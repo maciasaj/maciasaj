@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Andrea
+I'm a researcher and data analyst who is passionate about investigating how generative AI can improve people's lives 🌱
+
+I enjoy:
+
+- Designing and conducting research studies using quantitative, qualitative, and mixed methodologies
+- Making research and data-driven insights accessible to many audiences
+- Collaborating and leading impact
+
+I am currently learning more about data science ⚡
 
 <!--
 **maciasaj/maciasaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
